@@ -36,7 +36,7 @@ public:
 /********************************************************************************************************************************/
 
 
-//Approach-2 (Optimised)
+//Approach-2 (Optimised) - pre calculating total shifts..
 //T.C : O(N)
 //S.C : O(1)
 
@@ -46,7 +46,7 @@ public:
         int n = shifts.size();
         long long totalShift = 0;
         for(auto x : shifts) totalShift += x;
-        
+
         for(int index = 0;index<s.size();index++){
             s[index] = 'a' + (s[index] - 'a' + totalShift) % 26;
             totalShift -= shifts[index]; 
