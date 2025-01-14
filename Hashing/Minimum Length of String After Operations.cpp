@@ -60,7 +60,7 @@ public:
 /********************************************************************************************************************************/
 
 
-// Approach - 1  (better) - two pass solution
+// Approach - 2  (better) - two pass solution
 
 //T.C : O(N) + O(N)  
 //S.C : O(26) + O(26) space used 
@@ -102,7 +102,7 @@ public:
 /********************************************************************************************************************************/
 
 
-// Approach - 1  (optimal) - one pass solution
+// Approach - 3  (optimal) - one pass solution
 
 //T.C : O(N)
 //S.C : O(26) space used
