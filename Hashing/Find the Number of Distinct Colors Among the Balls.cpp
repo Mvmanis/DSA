@@ -47,10 +47,7 @@ class Solution {
 
     class Solution {
         public:
-            vector<int> queryResults(int limit, vector<vector<int>>& queries) {
-                // very brute...
-                // O(q * limit) and O(limit) space...
-        
+            vector<int> queryResults(int limit, vector<vector<int>>& queries) {        
                 unordered_map<int, int>levelMap;
                 unordered_map<int, int>countMap;
                 vector<int>result;
