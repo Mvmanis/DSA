@@ -1,10 +1,10 @@
 /*     Scroll below to see JAVA code also   */
 /*
-    MY YOUTUBE VIDEO ON THIS Qn : https://www.youtube.com/watch?v=v6_q_fu1ev0
-    Company Tags                : will update later
+    VIDEO                       : https://www.youtube.com/watch?v=v6_q_fu1ev0
     Leetcode Link               : https://leetcode.com/problems/remove-all-occurrences-of-a-substring
 */
-
+// Note - I could not come up with any approach - brute thought but could not code because of lack of string function knowledge
+// so revise it ....
 
 /********************************************************************** C++ **********************************************************************/
 //Approach-1 (Brute Force)
