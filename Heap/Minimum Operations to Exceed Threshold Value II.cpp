@@ -1,6 +1,6 @@
     // Leetcode Link               : https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
 
-
+  // please see constaint and use data type accordingly
 
 /**************************************************************** C++ ****************************************************************/
 
